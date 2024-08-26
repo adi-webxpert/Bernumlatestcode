@@ -1,11 +1,14 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // Import carousel styles
 import { Carousel } from "react-responsive-carousel";
 import useMediaQuery from "@mui/material/useMediaQuery";
+import DiscountDialog from "../Common/DiscountDialog";
 
 const MainBanner = () => {
   const matches = useMediaQuery("(max-width:724px)");
+  const [openModel, setOpenModel] = useState(false);
+  const [emailValue, setEmailValue] = useState("");
 
   const options = {
     showArrows: matches,
@@ -19,6 +22,23 @@ const MainBanner = () => {
     preventMovementUntilSwipeScrollTolerance: matches,
     swipeScrollTolerance: 50,
   };
+
+  useEffect(() => {
+    setTimeout(() => {
+      setOpenModel(true);
+    }, 10000);
+  }, []);
+
+  // function for discount model close :)
+  const handleClose = () => {
+    setOpenModel(false);
+  };
+
+  // function for sending user email :)
+  const handleSubmit = () => {
+    console.log("Email :", emailValue);
+  };
+
   return (
     <>
       <link href="https://www.bernum.ca/" rel="canonical" />
@@ -49,7 +69,10 @@ const MainBanner = () => {
                     <span className="sub-title">Grow Online</span>
                     <h2>We Provide Best Web Design and Development Services</h2>
                     <p>
-                    Bernum has helped many businesses excel by creating their online presence with creative, fast, AI driven software development, responsive web design and development solutions.
+                      Bernum has helped many businesses excel by creating their
+                      online presence with creative, fast, AI driven software
+                      development, responsive web design and development
+                      solutions.
                     </p>
 
                     <div className="btn-box">
@@ -130,6 +153,16 @@ const MainBanner = () => {
           <img src="/images/shape/shape14.png" alt="image" />
         </div>
       </div>
+
+      {/* Discount Model */}
+      {openModel === true && (
+        <DiscountDialog
+          handleClose={handleClose}
+          open={openModel}
+          setEmailValue={setEmailValue}
+          handleSubmit={handleSubmit}
+        />
+      )}
     </>
   );
 };
