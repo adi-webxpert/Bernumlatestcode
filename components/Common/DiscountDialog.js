@@ -12,6 +12,7 @@ export default function DiscountDialog({
   handleClose,
   setEmailValue,
   handleSubmit,
+  emailValue,
 }) {
   return (
     <React.Fragment>
@@ -47,6 +48,8 @@ export default function DiscountDialog({
           </DialogContentText>
           <Box className="formItems">
             <input
+              value={emailValue}
+              id="discountMail"
               className="emailInput"
               style={{ border: "1px solid gray" }}
               placeholder="Enter your email..."

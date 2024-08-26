@@ -4,6 +4,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"; // Import carous
 import { Carousel } from "react-responsive-carousel";
 import useMediaQuery from "@mui/material/useMediaQuery";
 import DiscountDialog from "../Common/DiscountDialog";
+import services from "../../services/contact/contactServices";
 
 const MainBanner = () => {
   const matches = useMediaQuery("(max-width:724px)");
@@ -35,8 +36,18 @@ const MainBanner = () => {
   };
 
   // function for sending user email :)
-  const handleSubmit = () => {
-    console.log("Email :", emailValue);
+  const handleSubmit = async () => {
+    const data = { discountMail: emailValue };
+    try {
+      const response = await services.sendEmail(data);
+      if (response.status) {
+        console.log("done,,,,,,,,,,,,,,,,,,,,,,,,,");
+      }
+      console.log("response", response);
+      setEmailValue("");
+    } catch (e) {
+      console.log("e", e);
+    }
   };
 
   return (
@@ -159,6 +170,7 @@ const MainBanner = () => {
         <DiscountDialog
           handleClose={handleClose}
           open={openModel}
+          emailValue={emailValue}
           setEmailValue={setEmailValue}
           handleSubmit={handleSubmit}
         />
