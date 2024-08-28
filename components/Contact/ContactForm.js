@@ -76,10 +76,8 @@ const ContactForm = () => {
     try {
       const response = await services.sendEmail(formdata);
       if (response.status) {
-        // alertContent();
         reset();
         setLoader(false);
-        //
         router.push("/thankyou");
       }
       reset();

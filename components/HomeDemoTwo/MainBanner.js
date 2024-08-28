@@ -10,6 +10,8 @@ const MainBanner = () => {
   const matches = useMediaQuery("(max-width:724px)");
   const [openModel, setOpenModel] = useState(false);
   const [emailValue, setEmailValue] = useState("");
+  const [done, setDone] = useState(false);
+  const [loader, setLoader] = useState(false);
 
   const options = {
     showArrows: matches,
@@ -37,17 +39,19 @@ const MainBanner = () => {
 
   // function for sending user email :)
   const handleSubmit = async () => {
-    const data = { discountMail: emailValue };
+    setLoader(true);
+    const data = { email: emailValue, type: "promotion" };
     try {
       const response = await services.sendEmail(data);
       if (response.status) {
         console.log("done,,,,,,,,,,,,,,,,,,,,,,,,,");
+        setDone(true);
       }
-      console.log("response", response);
       setEmailValue("");
     } catch (e) {
       console.log("e", e);
     }
+    setLoader(false);
   };
 
   return (
@@ -173,6 +177,8 @@ const MainBanner = () => {
           emailValue={emailValue}
           setEmailValue={setEmailValue}
           handleSubmit={handleSubmit}
+          done={done}
+          loader={loader}
         />
       )}
     </>

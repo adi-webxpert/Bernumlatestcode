@@ -13,6 +13,8 @@ export default function DiscountDialog({
   setEmailValue,
   handleSubmit,
   emailValue,
+  done,
+  loader,
 }) {
   return (
     <React.Fragment>
@@ -36,31 +38,55 @@ export default function DiscountDialog({
             <CloseIcon />
           </Box>
         </DialogActions>
-        <DialogContent className="MainHeadingDiscount">
-          <DialogContentText className="HeadingDiscountBlack">
-            Build Your Website That Convert!
-          </DialogContentText>
-          <DialogContentText className="HeadingDiscount">
-            Enjoy 10% Discount on Your First Website Development.
-          </DialogContentText>
-          <DialogContentText className="secondHeadingDiscount">
-            Limited Period Offer. Start Now!
-          </DialogContentText>
-          <Box className="formItems">
-            <input
-              value={emailValue}
-              id="discountMail"
-              className="emailInput"
-              style={{ border: "1px solid gray" }}
-              placeholder="Enter your email..."
-              type="email"
-              onChange={(e) => setEmailValue(e.target.value)}
+        {done === true ? (
+          <DialogContent className="MainHeadingDiscount">
+            <img
+              className="thankyouImage"
+              src="/images/greencheck.jpg"
+              alt="image"
             />
-            <span className="formBtn">
-              <Button onClick={handleSubmit}>Submit</Button>
-            </span>
-          </Box>
-        </DialogContent>
+
+            <DialogContentText className="Headingthankyou">
+              Thank you
+            </DialogContentText>
+            <DialogContentText className="thankyoutext">
+              We have received your request. We will reach <br />
+              out to you soon.
+            </DialogContentText>
+          </DialogContent>
+        ) : (
+          <DialogContent className="MainHeadingDiscount">
+            <DialogContentText className="HeadingDiscountBlack">
+              Build Your Website That Convert!
+            </DialogContentText>
+            <DialogContentText className="HeadingDiscount">
+              Enjoy 10% Discount on Your First Website Development.
+            </DialogContentText>
+            <DialogContentText className="secondHeadingDiscount">
+              Limited Period Offer. Start Now!
+            </DialogContentText>
+            <Box className="formItems">
+              <input
+                value={emailValue}
+                id="discountMail"
+                className="emailInput"
+                style={{ border: "1px solid gray" }}
+                placeholder="Enter your email..."
+                type="email"
+                onChange={(e) => setEmailValue(e.target.value)}
+              />
+              {loader ? (
+                <span>
+                  <i class="bx bx-loader bx-spin bx-md"></i>
+                </span>
+              ) : (
+                <span className="formBtn">
+                  <Button onClick={handleSubmit}>Submit</Button>
+                </span>
+              )}
+            </Box>
+          </DialogContent>
+        )}
       </Dialog>
     </React.Fragment>
   );

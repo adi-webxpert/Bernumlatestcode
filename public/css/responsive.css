@@ -6,11 +6,11 @@
     padding-right: 30px;
   }
   
-   .MainHeadingDiscount .HeadingDiscount {
-    font-size: 30px;
+  .MainHeadingDiscount .HeadingDiscount {
+    font-size: 32px;
     color: #fe4c1c;
     font-weight: 700;
-   }
+}
    .MainHeadingDiscount .secondHeadingDiscount { 
     font-size: 15px;
     font-weight: 600;
@@ -20,12 +20,15 @@
    .MuiDialogContent-root.MainHeadingDiscount.css-ypiqx9-MuiDialogContent-root {
     text-align: center;
 }
-.MainHeadingDiscount .formItems {display: flex;
-gap: 21px;
-align-items: center;
-justify-content: center;
+.MainHeadingDiscount .formItems {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0 0 0;
+  position: relative;
+  padding: 0 50px;
 }
-
 .MuiBox-root button {
   text-transform: capitalize !important;
   font-size: 18px;
@@ -37,7 +40,7 @@ justify-content: center;
   color: "black";
   font-weight: 700;
 }
-.MainHeadingDiscount .formBtn{
+.MainHeadingDiscount .formBtn button {
   background-color: rgb(254, 76, 28);
   padding-left: 2px;
   border-radius: 24px;
@@ -49,12 +52,38 @@ justify-content: center;
   margin-bottom: 18px;
 
 }
+.MainHeadingDiscount .thankyouImage {
+  height: 70px;
+  width: 70px;
+  margin: 0 auto;
+}
+.MainHeadingDiscount .Headingthankyou {
+  font-size: 32px;
+  color: #fe4c1c;
+  font-weight: 700;
+  margin: 20px 0 10px;
+}
+.MainHeadingDiscount .thankyoutext {
+    font-size: 18px;
+}
 .MainHeadingDiscount .emailInput {
-    border: 1px solid gray;
-    height: 30px;
-    text-align: center;
-    width: 253px;
-   }
+  height: 44px;
+  text-align: left;
+  width: 100%;
+  border-radius: 26px;
+  padding: 5px 125px 5px 20px;
+}
+.MainHeadingDiscount .formItems .formBtn {
+  position: absolute;
+  right: 55px;
+  top: 4px;
+}
+
+body form.MuiPaper-root {
+  max-width: 550px;
+  width: 100%;
+  min-height: 330px;
+}
   /* Max width 767px */
   @media only screen and (max-width: 767px) {
     body {
@@ -3638,6 +3667,41 @@ justify-content: center;
    text-align: left; 
 }
   }
+
+
+@media (max-width:575px){
+.MainHeadingDiscount .formItems {
+  padding: 0;
+}
+.MainHeadingDiscount .formItems .formBtn {
+  right: 5px;
+}
+.MainHeadingDiscount .HeadingDiscount {
+  font-size: 24px;
+  line-height: 30px;
+}
+.MainHeadingDiscount .HeadingDiscountBlack {
+  font-size: 17px;
+}
+.MainHeadingDiscount .formItems {
+  margin: 15px 0 0 0;
+}
+body form.MuiPaper-root {
+  max-width: 550px;
+  width: 100%;
+  min-height: 280px;
+}
+.MainHeadingDiscount {
+  margin-bottom: 0;
+  padding-top: 0 !important;
+}
+.MainHeadingDiscount .thankyoutext br {
+  display: none;
+}
+.MainHeadingDiscount .thankyoutext {
+  font-size: 17px;
+}
+}
 
   /*# sourceMappingURL=responsive.css.map */
   
