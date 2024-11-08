@@ -53,34 +53,28 @@ provide quality, reliable and affordable graphic design services. Contact now."
             <div className="overview-content">
               <div className="content">
                 <span className="sub-title">Digital Marketing</span>
-                <h2>Design & Marketing For Forward-Thinking Businesses</h2>
-                <p>
-                  Bernum knows what makes you stand out and will use that
-                  distinction to turn what makes you unique into something
-                  unforgettable! With thousands of clients under our wing and
-                  counting, Bernum is the go-to choice for business visionaries
-                  everywhere!
+                <h2 >Design & Marketing For Forward-Thinking Businesses</h2>
+                <p className="parachange">
+                  Currently Bernum Technologies delivers unmatched professional
+                  <b>
+                    {" "}
+                    <a href="https://www.bernum.ca/graphic-design/">
+                      graphic design services
+                    </a>
+                  </b>{" "}
+                  to ensure your business gets noticed. Because our talented
+                  team of designers knows that visual appeal is powerful,
+                  telling the story you want your potential customers to hear.
+                  Whether you require a captivating logo to represent your
+                  brand, beautiful website graphics, business cards, fliers, or
+                  any other item that can help develop corporate image, then our
+                  graphic designing services in Vancouver have it all under one
+                  roof. We pay attention to uniformity in visual design so that
+                  your brand can be easily recognizable and remembered. It is
+                  our pleasure to support you in making a powerful first
+                  impression through excellent graphics, designs, and layouts in
+                  your business!
                 </p>
-                <div className="features-text">
-                  <p>
-                    At Bernum, we understand that visual experience speaks
-                    volumes about a brand. It conveys your narrative, stirs
-                    emotions and helps connect with potential customers -
-                    something our skilled graphic designers excel at creating.
-                    They can give your current brand an overhaul as well, with
-                    special care taken in creating a uniform appearance and
-                    aesthetic. At our company, we provide professional graphic
-                    design services in all categories ranging from company logo
-                    and website creation, business cards, flyers, brochures,
-                    image ads catalogs book covers and much more. Your graphic
-                    represents your first impression; conveying what your
-                    business represents while leaving a lasting impactful memory
-                    of itself in people's minds. All aspects of marketing build
-                    from this foundational piece. Our dream team of marketing
-                    and graphic design agency professionals can custom craft an
-                    appealing brand identity from scratch!
-                  </p>
-                </div>
               </div>
             </div>
 
@@ -105,13 +99,23 @@ provide quality, reliable and affordable graphic design services. Contact now."
               <div className="content right-content">
                 <span className="sub-title">Social Media Marketing</span>
                 <h2>Solution for Creative Graphic Design</h2>
-                <p>
-                  Every successful business has a unique visual identity. Our
-                  graphic designers can craft the right one for you by offering
-                  clean, trendy, and aesthetically appealing design options for
-                  marketing collateral that help deliver the right message to
-                  your audience, boost customer retention, and encourage
-                  brand-led growth while keeping the brand value intact.
+                <p className="parachange" >
+                  Having a unique visual identity is very important for every
+                  successful business organization. Our{" "}
+                  <b>
+                    <a href="https://www.bernum.ca/graphic-design/">
+                      graphic design agency
+                    </a>
+                  </b>{" "}
+                  provides fresh, clean and stylish designs to meet our client’s
+                  marketing material needs. We assist you in achieving your
+                  company objectives of communicating your message, increasing
+                  customer loyalty, and supporting The brand-led objectives, all
+                  at the same time preserving your brand essence. Graphic
+                  designers at our company collaborate with you to design a
+                  suitable image that your target market can easily relate to in
+                  today’s diverse market. It is time to amplify your website
+                  with our professional design services!
                 </p>
                 <ul className="features-list">
                   <li>
@@ -187,10 +191,13 @@ provide quality, reliable and affordable graphic design services. Contact now."
                   </div>
                 </div>
                 <h3>Brand Recognition</h3>
-                <p>
-                  The major benefit of graphic design for businesses is that it
-                  helps in establishing a visual identity for the brand, which
-                  is a reflection of the company’s values and goals.
+                <p className="parachange">
+                  The primary advantage of graphic design for businesses lies in
+                  its ability to establish a distinct visual identity that
+                  reflects the company’s core values and objectives. A
+                  well-crafted visual identity enhances brand recognition,
+                  builds trust with customers, and communicates the essence of
+                  your brand effectively.
                 </p>
               </div>
             </div>
@@ -205,9 +212,14 @@ provide quality, reliable and affordable graphic design services. Contact now."
                   </div>
                 </div>
                 <h3>Communication</h3>
-                <p>
-                  Graphic designs help in effective communication with the
-                  viewers, as visual aids are better at communicating ideas.
+                <p className="parachange">
+                  Graphic design plays a crucial role in effective
+                  communication, as visual aids significantly enhance the
+                  ability to convey ideas. By utilizing compelling imagery,
+                  businesses can capture attention and make complex concepts
+                  more digestible for viewers. Effective graphic design not only
+                  improves understanding but also fosters emotional connections,
+                  leading to greater engagement and retention of information.
                 </p>
               </div>
             </div>
@@ -222,10 +234,12 @@ provide quality, reliable and affordable graphic design services. Contact now."
                   </div>
                 </div>
                 <h3>Building Trust and Goodwill</h3>
-                <p>
-                  Graphic design helps to create a professional brand image.
-                  This professional image helps in building trust and
-                  credibility in the minds of the customers.
+                <p className="parachange">
+                  Graphic design is essential for creating a professional brand
+                  image that fosters trust and credibility among customers. A
+                  well-executed design not only enhances visual appeal but also
+                  communicates reliability and expertise, making it easier for
+                  potential clients to connect with your brand.
                 </p>
               </div>
             </div>
@@ -240,10 +254,11 @@ provide quality, reliable and affordable graphic design services. Contact now."
                   </div>
                 </div>
                 <h3>Higher conversions</h3>
-                <p>
-                  The key benefit of graphic design for businesses is that it
-                  can help gain high visibility, which in turn can result in
-                  higher conversions.
+                <p className="parachange">
+                  One of the key benefits of graphic design for businesses is
+                  its ability to enhance visibility, leading to increased
+                  conversions. A strong visual identity captures attention and
+                  makes a lasting impression on potential customers.
                 </p>
               </div>
             </div>
@@ -258,9 +273,12 @@ provide quality, reliable and affordable graphic design services. Contact now."
                   </div>
                 </div>
                 <h3>Good Impression</h3>
-                <p>
-                  Your graphic is like your impression, conveying what you’re
-                  about and creating an impression that will last a lifetime.
+                <p className="parachange">
+                  Your graphic design is your first contact with the audience
+                  and reflects what your brand stands for. It tells people who
+                  you are and it gets imprinted on their mind. Graphic design
+                  gets the attention because it is a key marketing strategy that
+                  makes sure that your business brand is well understood.
                 </p>
               </div>
             </div>

@@ -20,7 +20,7 @@ const FeaturedService = () => {
                   <a>Web Development</a>
                 </Link>
               </h3>
-              <p>
+              <p className="parachange">
                 No matter if you are an entrepreneur searching for an
                 accessible, budget-conscious website to launch their start-up or
                 an experienced business professional looking for an innovative,
@@ -50,7 +50,7 @@ const FeaturedService = () => {
                   <a>Digital Marketing</a>
                 </Link>
               </h3>
-              <p>
+              <p className="parachange1">
                 Are you in need of assistance developing your brand identity and
                 target market audience? This package offers collaborative
                 brainstorming of marketing initiatives and strategic planning
@@ -80,7 +80,7 @@ const FeaturedService = () => {
                   <a>Graphic Design</a>
                 </Link>
               </h3>
-              <p>
+              <p className="parachange">
                 Graphic Design & Branding services offered by us ensure 100%
                 customer satisfaction. Let us bring your brand to life through
                 visually striking premium graphics - so that every first

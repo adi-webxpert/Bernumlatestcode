@@ -27,9 +27,13 @@ const MainBanner = () => {
   };
 
   useEffect(() => {
-    setTimeout(() => {
-      setOpenModel(true);
-    }, 10000);
+    const oneTimePopOp = JSON.parse(localStorage.getItem("popup"));
+
+    if (oneTimePopOp == null) {
+      setTimeout(() => {
+        setOpenModel(true);
+      }, 10000);
+    }
   }, []);
 
   // function for discount model close :)
@@ -40,12 +44,12 @@ const MainBanner = () => {
   // function for sending user email :)
   const handleSubmit = async () => {
     setLoader(true);
-    const data = { email: emailValue, type: "promotion" };
+    const data = { from: emailValue, type: "promotion" };
     try {
       const response = await services.sendEmail(data);
       if (response.status) {
-        console.log("done,,,,,,,,,,,,,,,,,,,,,,,,,");
         setDone(true);
+        localStorage.setItem("popup", JSON.stringify({ oneTimePopOp: true }));
       }
       setEmailValue("");
     } catch (e) {

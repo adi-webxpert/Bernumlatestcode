@@ -7,6 +7,17 @@ html {
 .collapse.navbar-collapse {
   visibility: unset !important;
 }
+.paragap {
+  margin-top: 9px;
+}
+.parachange {
+  text-align: justify;
+    word-spacing: -1px;
+}
+.parachange1 {
+  text-align: justify;
+    word-spacing: -3px;
+}
 h2 {
   font-family: Nunito, sans-serif;
   font-size: 42px !important;

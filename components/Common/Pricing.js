@@ -8,7 +8,6 @@ const Pricing = () => {
                 <div className="section-title">
                     <span className="sub-title">Pricing</span>
                     <h2>Our Flexible Pricing Plan</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 </div>
 
                 <div className="row">

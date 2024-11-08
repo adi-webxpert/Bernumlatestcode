@@ -29,7 +29,7 @@ const ServicesCard = () => {
                   <a>Web Development</a>
                 </Link>
               </h3>
-              <p>
+              <p className="parachange">
                 No matter if you are an entrepreneur searching for an
                 accessible, budget-conscious website to launch their start-up or
                 an experienced business professional looking for an innovative,
@@ -62,7 +62,7 @@ const ServicesCard = () => {
                   <a>Mobile Development</a>
                 </Link>
               </h3>
-              <p>
+              <p className="parachange">
                 We specialise in mobile application development services. With
                 individual attention paid to each of our customer satisfactions,
                 we bring your brand to life through unique premium mobile
@@ -95,7 +95,7 @@ const ServicesCard = () => {
                   <a>Web Design</a>
                 </Link>
               </h3>
-              <p>
+              <p className="parachange">
                 Our creative web design services can help your business to
                 improve its identity in the online marketplace. By blending
                 style and technology together, our expertise enables your
@@ -126,7 +126,7 @@ const ServicesCard = () => {
                   <a>Graphic Design</a>
                 </Link>
               </h3>
-              <p>
+              <p className="parachange">
                 Graphic Design & Branding services offered by us ensure 100%
                 customer satisfaction. Let us bring your brand to life through
                 visually striking premium graphics - so that every first
@@ -157,7 +157,7 @@ const ServicesCard = () => {
                   <a>Software Testing</a>
                 </Link>
               </h3>
-              <p>
+              <p className="parachange">
                 Provide one-stop software development solutions. Our dedicated
                 engineering team specializes in developing fast-growing tech
                 softwares that our users love!
@@ -187,7 +187,7 @@ const ServicesCard = () => {
                   <a>Digital Marketing</a>
                 </Link>
               </h3>
-              <p>
+              <p className="parachange">
                 Are you in need of assistance developing your brand identity and
                 target market audience? This package offers collaborative
                 brainstorming of marketing initiatives and strategic planning

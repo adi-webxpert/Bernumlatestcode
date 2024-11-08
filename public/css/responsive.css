@@ -10,11 +10,15 @@
     font-size: 32px;
     color: #fe4c1c;
     font-weight: 700;
+    text-align: center;
 }
    .MainHeadingDiscount .secondHeadingDiscount { 
     font-size: 15px;
     font-weight: 600;
     margin-top: 12px;
+    color :  black!important;
+    text-align: center;
+
 
    }
    .MuiDialogContent-root.MainHeadingDiscount.css-ypiqx9-MuiDialogContent-root {
@@ -37,8 +41,10 @@
 
 .MainHeadingDiscount .HeadingDiscountBlack {
   font-size: 20px;
-  color: "black";
-  font-weight: 700;
+  color: black !important;
+  font-weight: 600;
+  text-align: center;
+
 }
 .MainHeadingDiscount .formBtn button {
   background-color: rgb(254, 76, 28);
@@ -62,9 +68,12 @@
   color: #fe4c1c;
   font-weight: 700;
   margin: 20px 0 10px;
+  text-align: center;
 }
 .MainHeadingDiscount .thankyoutext {
     font-size: 18px;
+    text-align: center;
+
 }
 .MainHeadingDiscount .emailInput {
   height: 44px;

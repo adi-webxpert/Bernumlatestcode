@@ -16,7 +16,7 @@ const WhatWeDo = () => {
             <div className="what-we-do-content">
               <span className="sub-title">What We Do</span>
               <h2>We Help to Website Growth With Next Level Visitor</h2>
-              <p>
+              <p className="parachange">
                 We provide comprehensive digital marketing solutions to
                 businesses of various sizes and industries across a range of
                 sectors. From responsive website designs for well-known product
@@ -50,7 +50,7 @@ const WhatWeDo = () => {
                     </AccordionItemButton>
                   </AccordionItemHeading>
                   <AccordionItemPanel>
-                    <p>
+                    <p className="parachange">
                       Need help developing brand identity, voice and your target
                       market audience? This package offers a collaborative
                       brainstorming of marketing initiatives and strategic

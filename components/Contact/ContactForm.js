@@ -31,6 +31,7 @@ const INITIAL_STATE = {
 };
 
 const siteKey = GOOGLE.RECAPTCH_SITE_KEY;
+
 const ContactForm = () => {
   const [recaptchaValue, setRecaptchaValue] = useState("");
   const captchaRef = useRef();

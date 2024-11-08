@@ -18,7 +18,7 @@ const AboutSection = () => {
               <div className="text">
                 <span className="sub-title">About Us</span>
                 <h1>Web Design and Web Development Company</h1>
-                <p>
+                <p className="parachange">
                   At our top-rated website design company in Canada, our
                   creative and results-driven solutions focus on results-driven
                   web solutions for you and your brand. Let our services bring

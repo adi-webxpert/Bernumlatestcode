@@ -16,6 +16,7 @@ export default function DiscountDialog({
   done,
   loader,
 }) {
+
   return (
     <React.Fragment>
       <Dialog

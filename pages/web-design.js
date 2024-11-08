@@ -55,18 +55,24 @@ const WebDesign = () => {
                   Responsive Web Design Agency Vancouver to outshine your
                   competitors.
                 </h2>
-                <p>
-                  With more than 3.7 billion people who own and use mobile
-                  devices worldwide and an average time spent on mobile devices
-                  exceeding that on computers, it has become essential for
-                  companies to offer websites adapted to these types of
-                  peripherals (smartphones and tablets). For your website, the
-                  webmaster of our Responsive Design Web Agency designs a
-                  tailor-made project. Our agency specializes in affordable web
-                  design Vancouver. We take the time to anticipate user behavior
-                  in order to take care of the background of the pages and offer
-                  functionalities adapted to the different touch screen
-                  terminals.
+                <p className="parachange">
+                  As there are more than 4.88 billion mobile users across the
+                  world today it is important for companies to have websites
+                  that are designed for smartphones and tablets. Based in
+                  Vancouver and a leading web design agency, we have unique
+                  customized responsive solutions for any device. To achieve
+                  that, the team behind this{" "}
+                  <b>
+                    {" "}
+                    <a href="https://www.bernum.ca/web-design">
+                      {" "}
+                      website design company Vancouver
+                    </a>{" "}
+                  </b>
+                  also predicts how the audience will likely interact with it
+                  with an aim of creating both functional and visually appealing
+                  websites. Hire us for professional, cheap web services that
+                  boost your visibility on the internet!
                 </p>
               </div>
             </div>
@@ -89,13 +95,24 @@ const WebDesign = () => {
               <div className="content right-content">
                 <span className="sub-title">Social Media Marketing</span>
                 <h2>The Branding Solution</h2>
-                <p>
-                  Our specialised web developers are capable of gathering
-                  comprehensive requirements from our clients, and our web
-                  design team has a proper understanding of clients’
-                  requirements and the ability to fulfil them. We are skilled,
-                  creative, experienced, and have got the ability to craft handy
-                  and responsive website designs for our clients.
+                <p className="parachange">
+                  The professional staff over at this{" "}
+                  <b>
+                    {" "}
+                    <a href="https://www.bernum.ca/web-design">
+                      {" "}
+                      Vancouver web design company{" "}
+                    </a>{" "}
+                  </b>{" "}
+                  is skilled at identifying and meeting customer specifications.
+                  employ professional web developers and graphic designers to
+                  design optimized and easy to use business responsive websites.
+                  Our Vancouver Web Design company is committed towards
+                  providing the best services and developing a quality and
+                  effective website to meet the goal of your project and equally
+                  targeted to your internet audience. Come on let us help you
+                  realize your dreams through experienced professionals and
+                  emphasis on quality.
                 </p>
                 <ul className="features-list">
                   <li>
@@ -159,9 +176,12 @@ const WebDesign = () => {
                   </div>
                 </div>
                 <h3>Web Design That Moves</h3>
-                <p>
-                  The combination of innovation and quality makes our dynamic
-                  website design services like those of our rivals.
+                <p className="parachange">
+                  Our dynamic website design services stand out through a
+                  perfect blend of innovation and quality, ensuring your
+                  business shines in a competitive landscape. By combining
+                  cutting-edge design with robust functionality, we deliver
+                  solutions that set you apart from your competitors.
                 </p>
               </div>
             </div>
@@ -176,9 +196,11 @@ const WebDesign = () => {
                   </div>
                 </div>
                 <h3>Web Design That Is Responsive </h3>
-                <p>
-                  Our experts can design websites that can be operated
-                  seamlessly across desktops, smartphones, and tablets
+                <p className="parachange">
+                  Our team specializes in designing websites that provide a
+                  seamless experience across desktops, smartphones, and tablets.
+                  By focusing on responsive design, we ensure that your site
+                  looks and functions beautifully on any device.
                 </p>
               </div>
             </div>
@@ -193,9 +215,17 @@ const WebDesign = () => {
                   </div>
                 </div>
                 <h3>Design of a Static Website</h3>
-                <p>
-                  Our static web design services are committed to regularly
-                  updating your corporate website and online services.
+                <p className="parachange">
+                  Our static{" "}
+                  <b>
+                    <a href="https://www.bernum.ca/web-design">
+                      web design services
+                    </a>
+                  </b>{" "}
+                  ensure that your corporate website remains current and
+                  effective. We are dedicated to regularly updating your online
+                  presence, incorporating the latest trends and functionalities
+                  to enhance user experience.
                 </p>
               </div>
             </div>
@@ -210,9 +240,17 @@ const WebDesign = () => {
                   </div>
                 </div>
                 <h3>A Custom Web Design</h3>
-                <p>
-                  As a leading web design agency, our goal is to customise web
-                  design in the most creative way based on customer needs.
+                <p className="parachange">
+                  As a premier{" "}
+                  <b>
+                    <a href="https://www.bernum.ca/web-design">
+                      web design agency
+                    </a>
+                  </b>{" "}
+                  , we focus on delivering customized web design solutions
+                  tailored to meet your specific needs. Our creative approach
+                  ensures that each project reflects your brand identity and
+                  resonates with your audience.
                 </p>
               </div>
             </div>
@@ -227,9 +265,12 @@ const WebDesign = () => {
                   </div>
                 </div>
                 <h3>Web Design for Businesses</h3>
-                <p>
-                  Our corporate clients have specific requirements and to fulfil
-                  them, we have expert corporate web developers.
+                <p className="parachange">
+                  To meet the specific needs of our corporate clients, we employ
+                  expert corporate web developers with specialized skills. Our
+                  team understands the unique challenges faced by businesses and
+                  is dedicated to creating tailored web solutions that enhance
+                  functionality and user experience.
                 </p>
               </div>
             </div>
@@ -244,10 +285,11 @@ const WebDesign = () => {
                   </div>
                 </div>
                 <h3>A Web Portal Design</h3>
-                <p>
-                  Web design services differ from one another depending on the
-                  type of business. We include all essential elements in the
-                  provision of services.
+                <p className="parachange">
+                  Web design services vary significantly based on the unique
+                  needs of each business. Our approach ensures that we
+                  incorporate all essential elements tailored to your specific
+                  requirements.
                 </p>
               </div>
             </div>

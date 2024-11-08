@@ -6,6 +6,20 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
+        <script>
+          {`
+  (function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),
+    dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;
+    j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+    f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5QFG3TFB');
+`}
+        </script>
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -34,7 +48,7 @@ Request a quote now."
           content="web design and web development company, website design company in canada, website development company, website design companies in calgary, website designing service in toronto,
 website design agency canada, website design agency ottawa, website development ontario, website design london ontario, php website development services, shopify website development services "
         />
-      
+
         <title>
           Leading Website Development and Design Company in Canada - Bernum
         </title>

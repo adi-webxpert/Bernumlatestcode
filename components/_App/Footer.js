@@ -54,7 +54,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <i className="bx bx-phone"></i>
-                    {settings && settings.mobile}
+                  {settings && settings.mobile}
                 </li>
               </ul>
               <ul className="social-link">
@@ -70,11 +70,11 @@ const Footer = () => {
                     <i className="bx bxl-facebook"></i>
                   </a>
                 </li>
-                {/* <li>
+                <li>
                   <a
                     href={
                       (settings && settings.twitter) ||
-                      "https://www.twitter.com"
+                      "https://x.com/bernum84561"
                     }
                     className="d-block"
                     target="_blank"
@@ -86,7 +86,7 @@ const Footer = () => {
                   <a
                     href={
                       (settings && settings.instagram) ||
-                      "https://www.instagram.com"
+                      "https://www.instagram.com/bernumtechnologies"
                     }
                     className="d-block"
                     target="_blank"
@@ -98,14 +98,14 @@ const Footer = () => {
                   <a
                     href={
                       (settings && settings.linkedin) ||
-                      "https://www.linkedin.com"
+                      "https://www.linkedin.com/company/bernum-technologies/"
                     }
                     className="d-block"
                     target="_blank"
                   >
                     <i className="bx bxl-linkedin"></i>
                   </a>
-                </li> */}
+                </li>
               </ul>
             </div>
           </div>
