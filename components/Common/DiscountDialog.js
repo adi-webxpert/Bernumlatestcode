@@ -16,7 +16,6 @@ export default function DiscountDialog({
   done,
   loader,
 }) {
-
   return (
     <React.Fragment>
       <Dialog
@@ -61,11 +60,15 @@ export default function DiscountDialog({
               Build Your Website That Convert!
             </DialogContentText>
             <DialogContentText className="HeadingDiscount">
-              Enjoy 10% Discount on Your First Website Development.
+              Black Friday Offer From Bernum Technologies
             </DialogContentText>
-            <DialogContentText className="secondHeadingDiscount">
-              Limited Period Offer. Start Now!
+            <DialogContentText className="HeadingDiscount">
+              Get 30% Off on your First Order.
             </DialogContentText>
+            <DialogContentText className="HeadingDiscountBlackTwo">
+            Limited Period Offer. Grab Now!
+            </DialogContentText>
+            <DialogContentText className="secondHeadingDiscount"></DialogContentText>
             <Box className="formItems">
               <input
                 value={emailValue}

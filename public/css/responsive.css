@@ -7,7 +7,7 @@
   }
   
   .MainHeadingDiscount .HeadingDiscount {
-    font-size: 32px;
+    font-size: 22px;
     color: #fe4c1c;
     font-weight: 700;
     text-align: center;
@@ -44,6 +44,14 @@
   color: black !important;
   font-weight: 600;
   text-align: center;
+
+}
+.MainHeadingDiscount .HeadingDiscountBlackTwo  {
+  font-size: 15px;
+  color: black !important;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 10px;
 
 }
 .MainHeadingDiscount .formBtn button {
@@ -3686,7 +3694,7 @@ body form.MuiPaper-root {
   right: 5px;
 }
 .MainHeadingDiscount .HeadingDiscount {
-  font-size: 24px;
+  font-size: 20px;
   line-height: 30px;
 }
 .MainHeadingDiscount .HeadingDiscountBlack {
