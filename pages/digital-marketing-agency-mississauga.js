@@ -29,7 +29,7 @@ function Mississauga() {
           content="Boost Your Brand with Bernum: Leading Digital Marketing Agency in Mississauga. Elevate Your Online Presence Today!"
         />
         <link
-          href="https://www.bernum.ca/web-design-mississauga/"
+          href="https://www.bernum.ca/digital-marketing-agency-mississauga/"
           rel="canonical"
         />
 
@@ -37,7 +37,7 @@ function Mississauga() {
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          content="https://www.bernum.ca/web-design-mississauga/"
+          content="https://www.bernum.ca/digital-marketing-agency-mississauga/"
         />
         <meta
           property="og:image"
