@@ -42,7 +42,7 @@ export const headerMenus = [
       },
       {
         id: "6",
-        title: "Local Digital Marketing Agency",
+        title: "Web Design Toronto",
         to: "/affordable-web-design-toronto/",
       },
       {

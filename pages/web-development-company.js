@@ -43,10 +43,7 @@ function developmentCompany() {
           content="http://bernum.ca/images/main-logo.png"
         />
         <meta property="og:site_name" content="Bernum" />
-        <meta
-          property="og:title"
-          content="Web Development Company"
-        />
+        <meta property="og:title" content="Web Development Company" />
         <meta
           property="og:description"
           content="Canada&#x27;s Premier Web Development Company - Bernum: Crafting Digital Excellence. To Know More Connect with Us Today!"
@@ -61,54 +58,71 @@ function developmentCompany() {
         <div className="row justify-center mx-6 mt-12">
           <div className="col-md-12 col-sm-12 col-xs-12">
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum stands as an indispensable cornerstone of modern business
-              success. When an organization relies on its online presence to
-              determine its fate, Bernum can make all the difference between
-              success and failure in today's globalized digital marketplace. Our
-              expertise allows us to empower entrepreneurs, startups, and
-              Fortune 500 giants alike! Bernum serves as your trusted{" "}
+              Bernum Technologies plays a significant role to achieve success in
+              the current environment. Today, with the entry of the internet, we
+              have the competence to affect your organization’s operation within
+              the global market arena. Regardless of being a business-minded
+              person who wants to make his or her own business, a small or big
+              business who wants to start up a new website, or a big company who
+              is a member of the Fortune 500 list,{" "}
               <a
                 className="seo-links"
-                href="https://bernum.ca/web-development/"
+                href="https://www.bernum.ca/web-development-company/"
               >
-                {" "}
-                web development{" "}
+                <b> Best Web Development Company </b>{" "}
               </a>{" "}
-              company! We excel at crafting exceptional web solutions that
-              empower entrepreneurs, startups, and Fortune 500 giants alike!
+              is here to serve you. We aim at providing high quality solutions
+              tailored to help businesses succeed and grow on the internet. We
+              are here to assist you in enhancing your website and reaching your
+              business objectives successfully.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum recognises the dynamic, competitive digital environment as
-              we understand its constant evolution. No matter if you are just
-              getting started or managing an established Fortune 500
-              conglomerate, our dedicated team can work closely with you towards
-              building stunning websites that capture brand essence while being
-              cost-conscious.
+              Bernum Technologies knows how continuous and highly competitive
+              the digital world is. From start-up internet businesses to
+              conglomerate Fortune 500 corporations, our highly regarded staff
+              works hand in hand with you to design beautiful, professional
+              websites that accurately represent your company’s ethos.
+              Importantly, we seek to bring efficiency without sacrificing
+              quality, and where your business needs to be seen amongst the
+              competition online. Count on Bernum as your service provider of
+              web solutions that will improve your brand and create impact.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum Web Development excels at crafting unforgettable online
-              experiences that leave lasting impressions, taking great pride in
-              making concepts become realities by developing user-friendly
-              websites with flawless pixel art designs optimised for performance
-              and functionality. We commit ourselves to excellence through each
-              website that leaves Bernum Studio, so its creation displays it
-              fully!
+              Bernum Technologies the Web Development Company focuses on making
+              that first impression count with impressive and engaging web
+              designs. We feel privileged to convert your ideas into reality by
+              presenting a custom ergonomic website with aesthetic and fully
+              responsive pixel perfect design. We put our all into creating
+              excellent websites, and this fact is evident in our Bernum Studio
+              sites: Each website is designed to leave a positive first
+              impression while engaging the target audience and ultimately
+              leading to success. Allow us to enhance your online platform
+              through our prime web development solution.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum Web Development Company stands out as an unfaltering
-              champion of your success, tailoring our services specifically for
-              every one of their clients, be they startups seeking simple yet
-              cost-effective web designs or Fortune 500 corporations searching
-              for cutting-edge, feature-packed sites. Bernum has both expertise
-              and flexibility to meet each unique need.
+              Bernum Technologies the <b> Web Development Company Toronto </b>{" "}
+              has always been your reliable source of success, web solutions
+              that address the specific requirements of every client. Whether
+              you are an entrepreneur trying to make your first online presence
+              that is affordable web designs, or a gigantic company that
+              requires sophisticated and full-featured websites, Bernum will
+              effectively fulfill your expectations. Understanding commitment to
+              customers’ requirements guarantees that our services match
+              individual needs for business development and improve the position
+              online. Hire Bernum so that you can transform your envisioned
+              digital marketing aspirations into a reality thanks to
+              high-quality web development solutions.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Your website serves as your virtual storefront in today's online
-              environment, and Bernum can turn it into an asset to drive
-              business expansion. Rely on Bernum to help create the site of your
-              dreams on time and within your budget. Discover firsthand the
-              difference a trusted web development firm makes as you begin your
-              digital journey together today with Bernum by your side!
+              To many people today, the website is a business front, and
+              Bernum’s team can help turn it into an effective tool for business
+              development. Have faith in us that your vision will be realized in
+              having a website of your choice done efficiently and effectively
+              on time and minimally requiring a cash drip. Feel the difference
+              when using the right
+              <b> web development company </b> as you start this digital
+              journey. Join Bernum Technologies and set the stage for success
+              and an improved online presence for your business right now!
             </p>
           </div>
         </div>
@@ -431,27 +445,35 @@ function developmentCompany() {
         <div className="row justify-center mt-12 mx-6">
           <div className="col-md-12 col-sm-12 col-xs-12">
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum is an established website development firm focused on
-              crafting unique web experiences for businesses of all kinds and
-              sizes, from start-up founders launching new companies to
-              established professionals representing Fortune 500 firms, at
-              prices within your budgetary constraints.
+              Bernum Technologies is a reputable website development company
+              focused on offering services for all-types of businesses. From
+              start-ups who are simply starting their first business to
+              established business people who need an outstanding website for
+              their Fortune 500 company, Bernum Technologies provides value for
+              money. Leveling up your online brand or business starts with great
+              designs, just contact us for our superior web development
+              solutions.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum understands the critical nature of having an attractive
-              website when building an online presence and drawing customers in.
-              Our talented developers and designers collaborate closely with you
-              to make sure it not only meets but exceeds all your expectations.
-              Using cutting-edge technologies and industry best practices, our
-              responsive sites are user-friendly.
+              <b> Ecommerce Website Development</b> was also an important key
+              component for creating a good impression of online business. At
+              Bernum, we understand the role of an attractively designed and
+              easily navigated website when presenting a company and being
+              successfully searched by the potential consumers. We hire
+              experienced developers and designers to make it possible to
+              provide you with websites beyond your expectations. By using
+              advanced provisions that include professionalism, friendliness and
+              ease of user interface, we build sites that capture the intended
+              traffic.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum can assist in all stages of web development. Our
-              experienced professionals take great pride in crafting impressive
-              web solutions from conception through completion, expertly weaving
-              the keyword "web development company" throughout each step to
-              build a digital presence and bring your visions to life online.
-              Let us turn them into reality for you.
+              Bernum is the skilled and experienced web development agency that
+              can provide you professional service on different stages of web
+              development. Every step of the web development process, starting
+              with the concept, ending with the launch of a website, is handled
+              by our qualified team of web experts. We work on the perfecting of
+              the company or brand’s digital frontiers and offer cutting-edge,
+              engaging and results-orientated web platforms.
             </p>
           </div>
         </div>
@@ -467,38 +489,45 @@ function developmentCompany() {
         <div className="row justify-center mx-6 mt-12">
           <div className="col-md-12 col-sm-12 col-xs-12">
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum stands out in the industry due to their unyielding
-              dedication and expertise in creating exceptional websites. Bernum
-              provides custom-tailored website development services designed
-              specifically to fit their clients web development requirements,
-              from ambitious entrepreneurs launching startups all the way up to
-              Fortune 500 corporations with complex requirements for web
-              development services.
+              Bernum Technologies is now a well-known web development agency
+              that prides itself with the commitment to produce only the best,
+              fully unique websites. We design websites for all types of
+              businesses that are just starting, and websites for giant
+              companies that value their online image. As a result of an
+              understanding that the client is always right, Bernum Technologies
+              formulates unique solutions specifically for you to fit perfectly
+              with your plans and goals.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              At Bernum, we understand the value of having an engaging website
-              to represent your online business presence. Your digital face
-              should leave visitors with an unforgettable impression of you and
-              the services you provide. Our experienced web development team
-              excels at turning ideas into beautiful online realities. Working
-              closely together with you, our aim is always to meet and surpass
-              all expectations with every website designed by them.
+              At Bernum Technologies, we totally understand that a vibrant
+              website is one of the best ways to market your online based
+              business. Website is your virtual platform and the first thing the
+              visitors come across to know about your services. This company’s
+              experienced web developers insist on creating beautiful,
+              high-performing websites from concepts. Working shoulder to
+              shoulder with you, our goal is to go beyond expectations with
+              every unique solution developed.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum stands apart from our competition through our commitment to
-              affordability without compromising quality. We strongly believe
-              that having access to top-tier websites should be within
-              everyone's grasp. With Bernum, your dream website can come true
-              while staying within your budget!
+              Bernum Technologies distinguishes itself from its competitors in
+              that it focuses on offering professional web development services
+              at a low cost. That is why we think that high-quality web design
+              and development services need to be available to every company.
+              Regardless of whether you are a startup or a corporate company,
+              Bernum Technologies makes sure that your dream website is a
+              reality while running a realistic budget. Enjoy a world of
+              superior quality services and products that are trusted and within
+              your pocket reach.
             </p>
 
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Reach out now and experience the expertise and commitment of an
-              industry leader like Bernum! Let our web developers transform your
-              online presence, assist in reaching digital goals, and collaborate
-              towards making something of value to you and your business! Don't
-              miss this chance to partner with top professionals; reach out now
-              if your dream website awaits!
+              Contact Bernum Technologies today and find out how it is to work
+              with one of the <b> best web development companies </b>. Our
+              experienced team is here to help make over your image online and
+              help your business get to where you want it to be. Please join me
+              to build a website that I am sure will give your business a
+              genuine face lift. Do not hesitate, work with Bernum already now
+              to get your ultimate site created!
             </p>
           </div>
         </div>

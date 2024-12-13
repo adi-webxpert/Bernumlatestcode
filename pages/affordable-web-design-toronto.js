@@ -64,57 +64,80 @@ function Toronto() {
         <div className="row justify-center mx-6 mt-12">
           <div className="col-md-12 col-sm-12 col-xs-12">
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum offers {" "}
-              <a className="seo-links" href="https://bernum.ca/web-design/">
+              Affordable{" "}
+              <a
+                className="seo-links"
+                href="https://www.bernum.ca/affordable-web-design-toronto/"
+              >
                 {" "}
-                web design{" "}
+                <b> web design Toronto </b>{" "}
               </a>{" "}
-              in Toronto at competitive pricing—affordable web design Toronto—to give businesses of any kind the edge needed to succeed online.
-              Using creative expertise and cutting-edge technologies, our expert
-              designers help businesses rediscover their online identity so they
-              can thrive within this increasingly competitive Internet
-              marketplace.
+              can nevertheless be procured from Bernum Technologies as part of
+              the competitive edge that can make the difference online. Our
+              expert designers use skills in creativity and the most advanced
+              technologies and processes in web design that reflects your
+              overall brand. From startups to large enterprises we assist in the
+              rebranding of your web presence with easy to use esthetically
+              pleasing and SEO friendly layouts. At Bernum Technologies, we work
+              towards building and ensuring every business looks polished
+              online. For this reason, Bernum is your best choice when looking
+              for web design services within Toronto offering quality work,
+              creativity and value for your money.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Affordable Web Design Toronto is more than a service; it is an
-              investment in your company's future. In a city as diverse as
-              Toronto, standing out is key; often, your website serves as the
-              first point of contact between potential customers and your brand.
-              Our experienced designers and developers understand these
-              challenges well, tailoring services accordingly for Toronto
-              businesses' individual requirements.
+              When advertising to a competitive and diverse audience like the
+              one of Toronto, it is very important to differ from others. At
+              Bernum Technologies we offer{" "}
+              <b> affordable web design services </b> in Toronto that will turn
+              your site into a great weapon to attract your clients. Your web
+              page is the first thing a potential customer sees, so to provide a
+              professional impression and service, it must look professional and
+              be easy to navigate. With our expert teams of designers and
+              developers at Uptake, we recognize the business environment in
+              Toronto and develop unique solutions that solve your business
+              needs. Whether it is an easy to navigate structure or an adaptive
+              design we ensure the website is optimally effective. Enhance your
+              company’s growth with web design services that are perfect for
+              your brand image online.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum understands that the interdependency between style and
-              technology is unshakeable. Our web design approach seamlessly
-              marries aesthetics with functionality to produce websites with
-              stunning looks that provide exceptional user experiences. Budget
-              constraints can often be an obstacle in Toronto; that is why
-              Bernum provides affordable web design Toronto services without
-              compromising quality.
+              Bernum Technologies is aware that to be more precise, having value
+              web design also requires an absolute balance of style and
+              technology. Therefore, we employ both the appearance of such sites
+              as Remarkable Looking Sites and Fast performance; our results
+              confirm the efficiency of the presented concept. Understanding
+              that cost will always be a problem in Toronto, We continue to
+              offer affordable web design in Toronto that does not lack on the
+              extremity. If you need a stunning portfolio or a functional web
+              store, our designs provide the highest usability and display
+              speed. Let Bernum create the web presence you need for your
+              business with a tailored new website, all at an affordable price.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum provides exceptional web design at an economical rate
-              without compromising excellence. Our team utilizes cutting-edge
-              design trends, responsive layouts, and intuitive navigation
-              systems to make sure that your website captures the essence of
-              your brand while engaging your visitors effectively, turning
-              visitors into loyal customers through affordable web design
-              services in Toronto.
+              <b> Responsive web design services </b> are a key offering of
+              Bernum Technologies. A company based in Toronto combining modern
+              design solutions with the concept of a responsive site and
+              convenient navigation to build a website that meets the image of
+              your company. Our primary concern is to pay attention to user
+              perspectives, being certain that your site is going to attract the
+              attention of visitors and turn them into constant customers.
+              Indeed at Bernum, clients get high quality web designs with
+              economical prices meant to work for your business’ specific needs.
+              Let us design for you an outstanding and user-friendly web site
+              that will successfully promote your brand and generate results.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum can help your company either completely revamp or tweak its
-              online goals to reach them with our excellent web design
-              solutions. We know what works in Toronto's business scene, which
-              makes us the obvious choice when businesses seek to create an
-              impact on the web without breaking their budgets.
-            </p>
-            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum offers Toronto businesses affordable yet professional web
-              design services designed to transform their digital presence at an
-              economical rate, so contact us now and let's embark on an
-              adventure that redefines online identities and improves brand
-              success!
+              Bernum Technologies focuses on providing innovative web design
+              Toronto solutions to businesses to support effectively redesigning
+              their company’s online image. Whether you want to redesign your
+              website from scratch or need well-thought-out changes based on
+              further business strategies – our highly skilled team accomplishes
+              outstanding outcomes. We realize competition in the Toronto
+              business environment and we know what will ensure a site develops
+              a long-lasting online impression. Cutting across your business,
+              Bernum makes your business glow with our cheaper yet quality
+              services. Work with us to reach your Brand and Digital Goals
+              today.
             </p>
           </div>
         </div>
@@ -418,31 +441,42 @@ function Toronto() {
         <div className="row justify-center mt-12 mx-6">
           <div className="col-md-12 col-sm-12 col-xs-12">
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Our team specializes in offering top-tier web design services that
-              combine style and technology, creating the best possible web
-              presence for businesses online. With years of expertise in this
-              industry, our aim is to help you rediscover your brand identity on
-              the Internet marketplace while simultaneously strengthening it
-              further.
+              Being a team at Bernum, it is our mandate to ensure that our
+              clients get the best website design services through creativity
+              and technology taking charge. We are experienced web designers and
+              developers who know the current trends in the market. It is our
+              duty and honor to provide your company with the best website to
+              represent your brand in the best artistic way and, at the same
+              time, make it as efficient and reliable in the challenging
+              environment. The goal is to assist you with your business, to make
+              the brand recognizable, and to create the necessary identification
+              on the Internet.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum understands the value of cost-effective yet quality web
-              design services in Toronto that meet budgetary constraints while
-              producing outstanding results for any size organization, be it
-              small businesses or multinational enterprises. Our flexible
-              service offering caters specifically to their requirements while
-              meeting specific business goals. We tailor each of our packages
-              according to individual client specifications, ensuring each can
-              enjoy lasting success with their new website!
+              Bernum Technologies is aware about the relevance of providing
+              affordable and efficient web design services in Toronto. This
+              makes them suitable for most businesses, including small
+              businesses and startups and even large scale enterprises,
+              international companies and organizations, with the promise of
+              meeting the goal of any website to be developed for a company with
+              the specific and unique objectives within a given budget. We know
+              that each organization is distinct and this is why we thus price
+              and design each package of our web site design services based on
+              the specific needs of the client. When you turn to us for help,
+              your enterprise will achieve sustainable success and a great
+              internet image and this will be affordable. Get started on your
+              digital goals now with Bernum.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum's affordable web design Toronto team guarantees an
-              eye-catching website designed specifically to attract your target
-              audience and engage visitors. Rely on us to elevate your online
-              presence and help your business flourish in the digital realm.
-              Contact us now for a consultation and let's start changing it
-              together. Affordable web design Toronto is our specialty; let us
-              make it work for you!
+              Bernum’s <b> SEO-friendly web design </b> services in Toronto
+              offer quality, affordable web designs that will motion your target
+              customers. Built by a professional team, our websites are visually
+              attractive but are also purposely designed to entice client
+              actions and gain more traffic. Small businesses all the way to
+              large brands can rely on our affordable, top-notch web designs for
+              success in the digital business arena. Give us a call right now
+              for a consultation, and help us help you build a website that will
+              have a positive impact on your business.
             </p>
           </div>
         </div>
@@ -459,39 +493,43 @@ function Toronto() {
         <div className="row justify-center mx-6 mt-12">
           <div className="col-md-12 col-sm-12 col-xs-12">
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Our mission of offering innovative web design services at
-              competitive costs sets us apart in today's digital sphere.
+              Bernum Technologies is a creative web design , web development
+              company and our goal is to effectively deliver quality web design
+              and development solutions that address the aims of the client in
+              line with current market prices. The advertised package
+              distinguishes us in the contemporary digital market by providing
+              client-oriented, professional services that will develop a
+              reliable online presence for businesses of all scales. This
+              coupled with our affordable prices, allow companies to meet their
+              digital objectives and goals without any compromise to design and
+              performance. So let’s turn your website into a growth and success
+              engine for your business.
+            </p>
+
+            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
+              Here at Bernum Technologies, we offer Web Design packages in
+              Toronto that are reasonably priced for small businesses to get
+              online. Regardless of whether you are a start-up, SMB or a large
+              enterprise, we adjust our web design services to your specific
+              requirements and objectives. Here at Bernum you have to go through
+              the process of drawing out your vision and having the entire
+              website embody that vision. Let our team make sure that your
+              website will not only have that beautiful design but also be
+              enhanced by effectively communicating with your visitors and
+              growing your business. For any website to be a success, it has to
+              complement the firm’s image; this is why you should consider
+              working with Bernum.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Affordable web design in Toronto is more than a buzzword; it's our
-              mission. We understand the significance of creating an impactful
-              online presence without exceeding budget, which is why our
-              experienced team of designers and developers ensures your website
-              not only looks stunning but also functions seamlessly to drive
-              results.
-            </p>
-            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              At Bernum, we pride ourselves on our creative web design approach.
-              We don't simply construct websites; instead, our services combine
-              style with technology for an unparalleled online identity for your
-              business.
-            </p>
-            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum provides affordable web design Toronto services dedicated
-              to your success on the web, whether that means startups, small
-              businesses, or well-established firms. We tailor our solutions
-              specifically for each of their individual clients requirements
-              while working closely alongside you to understand goals and
-              vision, aligning every element of their website with their brand
-              identity.
-            </p>
-            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Don't settle for less when it comes to your online presence;
-              contact Bernum's Affordable Web Design Toronto now and let our
-              expertise and commitment to affordability rediscover the image of
-              your business in the digital marketplace. Affordable Web Design
-              Toronto is more than a keyword; it is your key to digital
-              excellence!
+              Do not settle for any poor design online presence—hire the Bernum
+              affordable web design agency in Toronto to transform your business
+              in the global market. Our experienced staff aims to provide you
+              with superior, effective and bespoke web solutions which reflect
+              your business. By keeping both the costs reasonable and the
+              quality high, we make it that your website both looks great and
+              runs great. Allow us to guide you back to finding your business’s
+              online presence once again. Call Bernum today for cheap web design
+              in Toronto—let Bernum turn your ideas into success on the web!
             </p>
           </div>
         </div>
