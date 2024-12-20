@@ -21,37 +21,36 @@ function DesignerNearME() {
   };
   return (
     <>
-        <title>Top Web Designer Near Me| Bernum Canada's Expert</title>
-        <meta
-          name="description"
-          content="Bernum Is the Top Canadian Web Development & Web Design Company. Find a Web Designer near Me for Your Project. Contact Today!"
-        />
+      <title>Top Web Designer Near Me| Bernum Canada's Expert</title>
+      <meta
+        name="description"
+        content="Bernum Is the Top Canadian Web Development & Web Design Company. Find a Web Designer near Me for Your Project. Contact Today!"
+      />
       <link
-          href="https://www.bernum.ca/web-designer-near-me/"
-          rel="canonical"
-        />
-       
+        href="https://www.bernum.ca/web-designer-near-me/"
+        rel="canonical"
+      />
 
-        <meta property="og:locale" content="en_US" />
-        <meta property="og:type" content="website" />
-        <meta
-          property="og:url"
-          content="https://www.bernum.ca/web-designer-near-me/"
-        />
-        <meta
-          property="og:image"
-          content="http://bernum.ca/images/main-logo.png"
-        />
-        <meta property="og:site_name" content="Bernum" />
-        <meta
-          property="og:title"
-          content="Top Web Designer Near Me| Bernum Canada's Expert"
-        />
-        <meta
-          property="og:description"
-          content="Bernum Is the Top Canadian Web Development & Web Design Company. Find a Web Designer near Me for Your Project. Contact Today!"
-        />
-        <meta name="keywords" content="Web Designer near Me" />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="website" />
+      <meta
+        property="og:url"
+        content="https://www.bernum.ca/web-designer-near-me/"
+      />
+      <meta
+        property="og:image"
+        content="http://bernum.ca/images/main-logo.png"
+      />
+      <meta property="og:site_name" content="Bernum" />
+      <meta
+        property="og:title"
+        content="Top Web Designer Near Me| Bernum Canada's Expert"
+      />
+      <meta
+        property="og:description"
+        content="Bernum Is the Top Canadian Web Development & Web Design Company. Find a Web Designer near Me for Your Project. Contact Today!"
+      />
+      <meta name="keywords" content="Web Designer near Me" />
       <NavbarStyleTwo />
 
       <LandingPageBanner pageTitle="Web Designer near Me" />
@@ -61,45 +60,69 @@ function DesignerNearME() {
         <div className="row justify-center mx-6 mt-12">
           <div className="col-md-12 col-sm-12 col-xs-12">
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Modern businesses depend on having an online presence to survive
-              and succeed, which makes finding an experienced web designer
-              essential. Bernum offers top-of-the-line{" "}
+              The use of the internet has become an inevitable part of people’s
+              life and every serious business requires online presence. It’s
+              when you find the right web designer who is professional that the
+              whole thing becomes easier. As a company, Bernum understands your
+              individual needs in web design and development and creates
+              appealing, easy-to-navigate sites for you. To guarantee getting
+              the results you want, we provide excellent web design solutions
+              for your brand. Stop for mediocrity – for excellent web design
+              services, choose Bernum for it is near you! Stop waiting – upgrade
+              your online image now with designs that engage and produce.
+            </p>
+            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
+              That is why Bernum knows how to create great looking websites that
+              are just as functional, beautiful, and powerful. Our specialized
+              professional and experienced team gives our customer an expert
+              website appearance and feel that creates a new unique and
+              aesthetic identity online for the brand. With the latest
+              technology advancement and creativity, we assist your business to
+              find a niche in today’s economy. Select Bernum to guarantee that
+              your Web appearance works not just to attract attention but will
+              do it effectively. We can build a successful and growing website
+              for your business!
+            </p>
+            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
+              In need of a competent{" "}
               <a className="seo-links" href="https://bernum.ca/web-design/">
-                {" "}
-                web design{" "}
+                <b> web designer near me?</b>{" "}
               </a>{" "}
-              services near your neighborhood; don't settle for anything less!
+              Bernum pioneered specialty outsourcing and brings invaluable,
+              local knowledge to the table. Being a Toronto web design company
+              we fully realize the peculiarities of the local consumers and
+              customers. With this understanding, we are able to design
+              corporate web sites that not only relate to your niche market but
+              also compel your consumer to act on your business objectives.
+              Bernum offers so much more than a website, you get a business
+              partner who is dedicated to your growth. Further, let me assist
+              and establish an engaging site for your target audience and with
+              such return, let’s!
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum recognises the value of creating websites with outstanding
-              aesthetic and functional qualities to ensure clients stand out in
-              an increasingly online landscape. Our talented team of creatives
-              strives to help rediscover your company's identity through style
-              and technology; together, we ensure your business stands out and
-              thrives online!
+              When it comes to designing Bernum, we offer our clients the best
+              of website designs which are highly attractive, innovative,
+              responsive, upgradeable and modern with revelant technologies. Our
+              professional staff guarantees that the site will have nice looks,
+              but equally importantly, is easy to navigate and use. Through
+              constant updates on web design features, we avail styles which
+              give confidential appreciation among users or clients. If you are
+              building a new site from the ground up, or redesigning, our
+              innovative know-how ensures your brand is unique in the online
+              space. Select us for the best and latest web design solutions that
+              reflect your brand’s responsiveness today!
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum offers several distinct advantages as your "web designer
-              near me." First and foremost, being local allows us to understand
-              the nuances and preferences of your customer base, enabling us to
-              craft websites tailored specifically towards local audiences in
-              order to increase conversion and growth opportunities for you and
-              your company.
-            </p>
-            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Our team is well versed in all the latest web design trends and
-              technologies to ensure your website not only looks visually
-              pleasing but is built using cutting-edge technologies with
-              user-friendly interfaces. We take great pride in staying on the
-              cutting edge of web design innovations and can bring this
-              expertise to any project that comes our way.
-            </p>
-            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum believes collaboration is at the core of everything they do
-              to produce exceptional results for clients. By understanding your
-              business goals, brand identity, target audience, and individual
-              requirements, we ensure every element of your website represents
-              you perfectly and meets them accordingly.
+              Teamwork is the core of our web design approach, at Bernum. We
+              invest time in learning about your business needs, brand
+              personality, target markets and other specifications you may have.
+              This keeps the website you are developing in line with your vision
+              and accepted by your target market. Therefore, conceptualizing
+              design with a focus on your goals, we design websites visually
+              appealing and effective in achieving the business goals. From
+              Bernum, you can receive client-oriented website design services
+              that help businesses improve their web presence and results. Shall
+              we join forces and put it into life?
             </p>
           </div>
         </div>
@@ -419,34 +442,42 @@ function DesignerNearME() {
         <div className="row justify-center mt-12 mx-6">
           <div className="col-md-12 col-sm-12 col-xs-12">
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum can provide cutting-edge web design services that will not
-              only strengthen but also reinvent your online presence in an
-              ever-evolving marketplace. We take great pleasure in providing
-              innovative web solutions designed to propel businesses in an
-              increasingly online market environment.
+              Now that the market has become significantly more competitive, a
+              business simply cannot afford to be invisible online. Our{" "}
+              <b> local Web Design services </b> allow your brand to be
+              rejuvenated while Bernum puts it at the forefront for the
+              incumbent competitive market environment. Our Web services are
+              unique and are custom made to fit the emerging markets to ensure
+              your Website is the one selected to drive that growth. Bernum is a
+              partner for your business with whom you can achieve impressive
+              results in the highly competitive context of online trading.
+              Transformative design begins with art work that not only looks
+              great but also boosts engagement and performance
+            </p>
+
+            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
+              Looking for a web designer with a nearby location? Bernum is your
+              go-to company, making that vision a reality with unique and
+              effective web design services to all companies. Regardless of your
+              business type; whether you’re a small local business or a large
+              enterprise, our website designs will suit your business needs. We
+              do this with years of experience and a great team of developers,
+              designers , copywriters who make sure that any website we build
+              for our clients will be beautiful, functional and promotes the
+              business. Let Bernum offer you an affordable, professional web
+              design service that caters to the needs of your organization and
+              your target market.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              At Bernum, we recognise the value of marrying beauty with
-              functionality to create stunning websites for businesses of any
-              kind. Our team of specialists is committed to helping your company
-              flourish online by designing beautiful but user-friendly sites for
-              them to benefit from.
-            </p>
-            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum <b> Web Designer near me </b>is your dedicated partner in
-              making your vision come to fruition, whether that is small local
-              businesses or larger enterprises needing customized website
-              solutions tailored specifically for them. With both the experience
-              and skills necessary to produce stunning website solutions
-              tailored precisely according to each unique need of every client
-              we serve, Bernum can deliver stunning website solutions customized
-              precisely according to each unique need of all its clients.
-            </p>
-            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Do not miss the chance to stand out online. Reach out to Bernum
-              today. Our experienced web designer near me is waiting with open
-              arms to surpass all expectations and transform your online
-              presence!
+              It will be beneficial for you and your brand, don’t lose your
+              chance to be at the top of each search. Contact Bernum;{" "}
+              <b> Responsive web design near me</b>, and let us offer you the
+              best services you never expected. Our qualified team design a
+              unique, professional, and friendly website for your business. We
+              remain focused on turning you or your business into a successful
+              and prominent figure in the online world. Contact Bernum today and
+              get your first engaging step towards a deep web presence that
+              changes your business fortune.
             </p>
           </div>
         </div>
@@ -462,42 +493,57 @@ function DesignerNearME() {
         <div className="row justify-center mx-6 mt-12">
           <div className="col-md-12 col-sm-12 col-xs-12">
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Our web designers combine creativity with cutting-edge technology
-              in an attempt to reimagine the online presence of your business.
-              Backed by years of experience and an experienced team of
-              designers, we offer all-in-one web design solutions.
+              Bernum’s web designers incorporate both art and sciences to
+              rebrand and reinvent your business’s online platform. Many years
+              of experience and a literate staff of designers allows us to offer
+              a wide range of web design services that correspond to your brand
+              identity. Whether you want a complete overhaul of your site or a
+              new site built from the ground up, we create stunning, intuitive
+              designs that engage and persuade your visitors. Count on Bernum to
+              design you a beautiful and effective website that will help
+              progress your business forward. Let us take your ideas into
+              reality with professional web design services that will fit your
+              needs.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Searching "web designer near me" means more than finding services;
-              rather, you want someone who understands the requirements specific
-              to your local business. Bernum goes far beyond simply acting as
-              another web design agency; our digital allies understand market
-              dynamics to craft designs that best reflect the brand identities
-              of client businesses while catering specifically to local
-              audiences.
+              That’s why you don’t just type in, <b>‘Web designer near me</b>,’
+              You’re not searching for a service; you’re looking for a solution
+              to your local business. Bernum does not just function like any
+              other web design agency; Bernum is your Web team that understands
+              market tendencies and target audience specifics. Drawing from our
+              extensive experience, we work with your company to come up with
+              unique designs that not only represent your brand but also have a
+              positive reception with your audience. You can trust Bernum to
+              deliver a website that speaks your target clients’ language and
+              achieves the local goal. Join me in creating the optimum internet
+              presence for your needs with smart design.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum stands by their commitment to excellence; when you hire
-              Bernum as your web designer, you are choosing an entire team
-              devoted to your online success. We pride ourselves on crafting
-              beautiful sites through a seamless fusion of style and technology;
-              whether that means building you an e-commerce shop, blog post, or
-              corporate site, Bernum provides superior web design services like
-              no other firm can match!
+              Bernum is dedicated to providing quality and professional services
+              across all domains. When you select us as your web designers, you
+              get a whole team dedicated to your triumph online. It is our
+              delight to deliver to you fabulous visual graphic designs of your
+              site with great working operational platforms. If you require the
+              design of an e-shop, a blog or a corporate page, you benefit from
+              the advanced web design services at Bernum, a service not
+              available with any other agency. Let us design you a site that not
+              only looks great, but gets you results for your business. Welcome
+              to the Age of the Online Vision – let us help you bring your
+              vision to life.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum stands ready to surpass your expectations as you search for
-              "web designer near me." Our team takes great pleasure in crafting
-              websites that not only look gorgeous but also perform
-              exceptionally well online.
-            </p>
-            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Are you ready to elevate your online presence and create an impact
-              in local markets with Bernum Web Design Services? Reach out now
-              and see how Bernum can transform your business, helping it succeed
-              in the online marketplace! Don't miss the chance of teaming with
-              Bernum's "Web Designer Near Me!"; take full advantage of Bernum as
-              your "Web Designer Near Me!"{" "}
+              Looking for a web designer close to you? Bernum is prepared to
+              create a phenomenal web design solution for you. Our team is
+              focused on delivering aesthetically pleasing designs that are well
+              optimized and function equally well across platforms. In our
+              approach, we blend art with business making your site appear
+              unique as well as delivering on its promise. For purposes of
+              seeking the services of a web design agency, whether with an aim
+              of seeking improved user experience or increased online sales,
+              Bernum offers optimized, excellent website designs to its clients
+              in order to better their brand’s online appeal. You can hire us to
+              implement your digital vision with enviable efficiency and
+              finesse!
             </p>
           </div>
         </div>

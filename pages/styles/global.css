@@ -7,16 +7,38 @@ html {
 .collapse.navbar-collapse {
   visibility: unset !important;
 }
+
+.faq-section {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.faqtitle{
+  color: #000000;
+}
+#faq-button{
+  margin-top: 50px;
+  bottom: 24px;
+  left: 0px;
+}
+
+
+/* FAQ image */
+.faqImage {
+  height: 300px;
+  width: 350px;
+  margin: 0 auto;
+}
 .paragap {
   margin-top: 9px;
 }
 .parachange {
   text-align: justify;
-    word-spacing: -1px;
+  word-spacing: -1px;
 }
 .parachange1 {
   text-align: justify;
-    word-spacing: -3px;
+  word-spacing: -3px;
 }
 h2 {
   font-family: Nunito, sans-serif;
@@ -35,7 +57,6 @@ body {
 }
 
 .nav-link {
-  
 }
 
 ul.footer-links-list.divide li {
@@ -46,7 +67,6 @@ ul.footer-links-list.divide {
   flex-wrap: wrap;
   gap: 3px;
 }
-
 
 div#contactWithUs {
   position: relative;
@@ -94,11 +114,6 @@ div#contactWithUs {
   }
 } */
 
-
-
-
-
-
 .banner-content h2 {
   margin-bottom: 20px;
   color: var(--whiteColor);
@@ -110,15 +125,13 @@ div#contactWithUs {
   color: white; /* Initial text color */
 }
 .headerTopBar .default-btn:hover {
-
-background-color: white;
-color: black;
-
+  background-color: white;
+  color: black;
 }
 .headerTopBar h3 {
   font-weight: 400;
 }
-.headerTopBar h3 span{
+.headerTopBar h3 span {
   font-weight: bolder;
 }
 .headerTopBar .default-btn {
@@ -168,7 +181,6 @@ color: black;
   color: white;
   margin-top: 50px;
 }
-
 
 .filter-buttons Button {
   color: #000;
@@ -226,11 +238,6 @@ color: black;
   opacity: 1;
 }
 
-
-
-
-
-
 /* ===================9-may-css=================== */
 .boxes-area .row {
   gap: 24px;
@@ -261,40 +268,50 @@ color: black;
   background-color: transparent;
   box-shadow: none;
 }
+.faq-sction .what-we-do-content-accordion {
+  padding-left: 0;
+}
 /* ===================9-may-css=================== */
 
-
-
-
-@media (max-width:991px){
-.boxes-area .col-lg-4 {
-  width: calc(50% - 12px);
+@media (max-width: 991px) {
+  .boxes-area .col-lg-4 {
+    width: calc(50% - 12px);
+  }
+  .services-area .col-lg-4 {
+    width: calc(50% - 12px);
+  }
+  .test-sec .team-head h2 {
+    text-align: center;
+  }
+  .why-choose-sec h2 {
+    text-align: center;
+  }
+  #faqAccodi {
+    padding-left: 0.75rem;
+  }
 }
-.services-area .col-lg-4 {
-  width: calc(50% - 12px);
+@media (max-width: 767px) {
+  
+  body .navbar-area {
+    top: 4rem;
+  }
+  .home-wrapper-area .banner-content {
+    padding-top: 20px;
+  }
+  #faq-button {
+    left: 0;
 }
-.test-sec .team-head h2 {
-  text-align: center;
+#faqAccodi {
+  padding-left: 12px;
 }
-.why-choose-sec h2 {
-  text-align: center;
+  .blog-collunm img {
+    width: 100%;
+  }
+  .contact-form {
+    padding: 0px 20px 25px;
+  }
 }
-}
-@media (max-width:767px){
-body .navbar-area {
-  top: 4rem;
-}
-.home-wrapper-area .banner-content {
-  padding-top: 20px;
-}
-.blog-collunm img {
-  width: 100%;
-}
-.contact-form {
-  padding: 0px 20px 25px;
-}
-}
-@media (max-width:575px){
+@media (max-width: 575px) {
   .boxes-area .col-lg-4 {
     width: 100%;
   }
@@ -304,7 +321,7 @@ body .navbar-area {
   .boxes-area .row {
     margin: 0;
   }
-  .services-area  .row {
+  .services-area .row {
     margin: 0;
   }
   .banner-content h2 {
@@ -316,29 +333,37 @@ body .navbar-area {
   .about-area .about-content .funfacts-list {
     justify-content: left;
   }
-  .section-title h2, .what-we-do-area .what-we-do-content h2, 
-  .project-start-content h2, .about-content h2, .feedback-content h2, 
+  .section-title h2,
+  .what-we-do-area .what-we-do-content h2,
+  .project-start-content h2,
+  .about-content h2,
+  .feedback-content h2,
   .overview-box .overview-content .content h2 {
     font-size: 34px !important;
   }
   .headerTopBar h3 {
     font-size: 13px;
+  }
+  .main-nav .navbar .navbar-nav {
+    width: 100%;
+  }
+  body .contact-area {
+    margin-top: 25px;
+  }
 }
-.main-nav .navbar .navbar-nav {
-  width: 100%;
+@media (max-width: 374px) {
+  .banner-content h2 {
+    font-size: 34px !important;
+  }
+  #faq-button {
+    margin-top: 50px;
+    bottom: 24px;
 }
-body .contact-area {
-  margin-top: 25px;
-}
-}
-@media (max-width:374px){
-.banner-content h2 {
-  font-size: 34px !important;
-}
-.about-area .about-content h1 {
-  font-size: 32px;
-}
-.section-title h2, .what-we-do-area .what-we-do-content h2, 
+  .about-area .about-content h1 {
+    font-size: 32px;
+  }
+  .section-title h2,
+  .what-we-do-area .what-we-do-content h2,
   .project-start-content h2 {
     font-size: 32px !important;
   }

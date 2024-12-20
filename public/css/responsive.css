@@ -109,6 +109,12 @@ body form.MuiPaper-root {
     .control-dots{
       display:  none;
     }
+
+.what-we-do-content-accordion .accordion .accordion__item .accordion__button span::before {
+          width: 30px;
+        height: 30px;
+        }
+
     .ptb-100 {
       padding-top: 60px;
       padding-bottom: 60px;
@@ -3531,11 +3537,14 @@ body form.MuiPaper-root {
     ul.footer-links-list.divide li {
     width: 100%;
   }
-    
+ 
   }
   @media only screen and (max-width: 768px) {
     ul.footer-links-list.divide li {
       max-width: 100%;
+    }
+    .faq-sction {
+      text-align: center;
     }}
 
   @media only screen and (max-width: 640px) {
@@ -3683,6 +3692,9 @@ body form.MuiPaper-root {
 .footer-bottom-area ul.designBy {
    text-align: left; 
 }
+.faq-sction {
+  text-align: center;
+}
   }
 
 
@@ -3717,6 +3729,13 @@ body form.MuiPaper-root {
 }
 .MainHeadingDiscount .thankyoutext {
   font-size: 17px;
+}
+
+.faq-sction {
+  text-align: center;
+}
+.faq-sction h2 {
+  font-size: 32px !important;
 }
 }
 

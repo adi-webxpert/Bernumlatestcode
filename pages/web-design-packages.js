@@ -64,56 +64,74 @@ function CompanyMarkham() {
         <div className="row justify-center mx-6 mt-12">
           <div className="col-md-12 col-sm-12 col-xs-12">
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              An effective online presence begins with designing an eye-catching
-              website. Your digital storefront serves as the face of your brand.
-              At Bernum, we recognise the importance of an engaging online
-              presence for businesses of all kinds; therefore, we offer
-              customised{" "}
+              A strong initial step toward having a powerful condition on the
+              internet is having an aesthetic website. Just like your business
+              card, your website is the first touch point that any customer
+              associates with your brand and at Bernum we know the power of a
+              first perception. The creation of this company’s specialty lies in
+              the development of unique business and custom websites with the
+              appropriate appeal. They are really unique and developed to target
+              specific needs of web site owners, so all our{" "}
               <a className="seo-links" href="https://bernum.ca/web-design/">
-                {" "}
-                web design{" "}
-              </a>{" "}
-              packages designed to fit each of our clients individual
-              requirements.
+                <b> web design packages</b>{" "}
+              </a>
+              will help to improve your business and reflect your brand
+              identity. Experience Bernum’s professionalism in delivering a site
+              that not only will look marvelous but is marvelous in day-to-day
+              usage in today’s world.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Our web design packages combine creativity and technology
-              seamlessly to help your business revitalise and elevate its online
-              image in today's globalised marketplace. First impressions count
-              more than ever, which is why our services strive to ensure your
-              website leaves an indelible mark with visitors who visit it.
+              High importance of web presence is seen in the contemporary world
+              where globalization of the markets is evident. Our web design
+              packages at Bernum use both imagination and ideas on new age
+              technologies to ensure that your business gets the image it
+              deserves online. This is why we do not take the creation of the
+              first impression lightly, which is why we ensure that our website
+              designs will make an impact on every client. No matter if you need
+              a business-like web target or an inviting digital storefront, our
+              tailored web designs guarantee that your Website gets seen and
+              gets real results. When it comes to the best services in website
+              design you can count on Bernum to get a website that re-energizes
+              your brand and energizes your audience.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              No matter where your business stands on its journey to digital
-              success, our web design packages have you covered. Offering
-              flexible budgets and objective-specific plans per package and
-              supported by skilled designers and developers with an eye for
-              making dreams a stunning reality, they meet every expectation
-              needed by both startups and established organisations alike.
+              Bernum provides our clients with <b>package website design </b>{" "}
+              depending on their needs irrespective of the business stage they
+              are in. Whether you are a new company or a large corporation, our
+              offers are created considering your financial capabilities and
+              goals. Contact our talented professionals and let us create a
+              professional, fully functional website for you. Our made-to-order
+              recommendations guarantee your website meets all your
+              expectations, and offer workable solutions for growth. Let Bernum
+              assist you in pushing your business further with a web design
+              service that meets your objective, thus achieving optimum results
+              online.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              What sets our web design packages apart is their commitment to
-              quality and innovation. We recognise the unique needs of every
-              business and design websites for them that reflect their
-              personality, brand objectives, and target audience. Our designers
-              work closely with you so as to produce results that not only look
-              stunning but function effortlessly too!
+              Bernum’s web design packages offer the best solutions because of
+              two aspects that remain clear to us: quality and innovation. Of
+              course, each business is individual and that is why we design
+              individual websites that would accurately convey your brand and
+              its goals and target audience. Our capable designers work with you
+              directly to evaluate the product and guarantee that not only the
+              appearance but the usability as well suits you most. Our web
+              design packages are versatile enough to provide you with a basic
+              site or a ground up fully functional multifaceted platform that
+              will keep your business on track for success and retain users for
+              further use.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              With our assistance, your business can thrive online by reaching a
-              wider audience, generating leads, and turning visitors into
-              long-term customers. Our web design packages go beyond simply
-              building websites; rather, they focus on crafting engaging digital
-              experiences that resonate with audiences while driving business
-              growth.
-            </p>
-            <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Selecting an effective web design package in today's fast-paced
-              digital environment can make or break a business, so selecting
-              carefully is of utmost importance. At Bernum, our expert
-              consultants specialise in tailor-made solutions designed to
-              elevate your brand in the digital space. Take a look at our
-              packages now to unlock their full potential!
+              Bernum offers affordable web design packages for your business to
+              incorporate and reach more audiences, capture more leads and make
+              sales on your websites. Website construction is our priority, but
+              our work is much more than that: we’re about delivering engaging
+              online environments tailored towards reaching your customers. All
+              packages come with the aim of assisting you and your brand to cut
+              through the clutter in today’s digital economy by providing more
+              than just functional, attractive, and user-friendly websites that
+              are key to future continuity and profitability. Leave your website
+              in the hands of Bernum to design a business attracting site that
+              keeps customers coming for more in the long-run.
             </p>
           </div>
         </div>
@@ -422,27 +440,47 @@ function CompanyMarkham() {
         <div className="row justify-center mt-12 mx-6">
           <div className="col-md-12 col-sm-12 col-xs-12">
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum excels at crafting captivating online experiences through
-              their web design Packages, featuring expert web designers that
-              tailor solutions specifically tailored for you and your digital
-              presence. Additionally, these comprehensive designs combine style
-              with cutting-edge technologies so businesses can compete
-              successfully in online marketplaces.
+              At Bernum, <b> Mobile-Friendly web design </b> is our passion and
+              we pride ourselves on offering affordably priced web design
+              services that can be viewed through our web design packages. We
+              pride ourselves as a team of professional web designers dedicated
+              to working hand in hand with you to come up with packages that fit
+              your needs best and those which would appeal most to you to get an
+              Addressed audience. We also enjoy the opportunity to create
+              beautiful and well-optimized website design for our clients.
+              Whether you are a brand new company or an established one, our
+              complete package of web designs gives you the instruments
+              necessary to succeed in today’s business world. Bernum can assist
+              you to shine online and succeed with a website that works.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Our web design packages are tailored to accommodate businesses of
-              all sizes and industries, from startups establishing an impactful
-              online presence to established organisations seeking an upgrade—we
-              have something that suits every situation perfectly! Using
-              exceptional attention to detail, creativity, and technical
-              know-how, our packages ensure your website not only looks amazing
-              but functions seamlessly across devices and platforms!
+              Bernum’s web design packages are features exclusively for business
+              websites, regardless of whether you are a new business just
+              starting your website or an established business that is in the
+              process of redesigning. Our packages are for all industries and as
+              much as possible we provide tailored packages for packages to fit
+              any business environment. Our emphasis on creativity, technical
+              know-how, and detail guarantees that your website will not just
+              look great but will also function great no matter which device or
+              screen it’s being viewed on. If you need your business brand to
+              soar high, why not choose Bernum for the best of services to make
+              your business website all you need
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum Web Design Packages provide your online identity with an
-              engaging and user-friendly platform, helping your business
-              flourish in today's digital environment. Discover all they offer
-              now by reaching out!
+              Bernum’s Web Design Packages provide organizations with a
+              versatile, easy to manage website framework that effectively
+              supports the overall image of their business and boosts its
+              performance within a thriving market society. Focused firmly on
+              designing innovative and user friendly, these packages are
+              developed especially to fit your business exact requirement thus
+              providing unique functionality added to the ease of use of the
+              website you have developed.
+              <a className="seo-links" href="https://www.bernum.ca/contact/">
+                <b> Contact us today </b>
+              </a>{" "}
+              to find out how Bernum can assist you in achieving a higher online
+              visibility, while greatly increasing your sales with a unique
+              built-for-you, high impact website!
             </p>
           </div>
         </div>
@@ -459,36 +497,61 @@ function CompanyMarkham() {
         <div className="row justify-center mx-6 mt-12">
           <div className="col-md-12 col-sm-12 col-xs-12">
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Each of our web design packages is tailor-made to fit the unique
-              requirements and goals of every one of our customers, be they
-              starting fresh online, upgrading an established business site, or
-              something in between! No matter what it may be, our experienced
-              designers stay current on current technologies to make sure not
-              only does your site look stunning visually, but that it is
-              user-friendly across various devices as well.
+              Finally, it is important to know that Bernum’s web design packages
+              are what you call flexible and created to answer the needs and
+              objectives of the company. We design successful online presences
+              whether you want to create a new internet appearance from scratch
+              or need new features to update your existing site. We are
+              acquainted with modern tools, so your website will not only be
+              beautiful but also friendly for users on any devices. Make Bernum
+              your website design agency of choice and let us help you build a
+              unique brand that works for you online.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              At Bernum, we understand the significance of your website, which
-              often serves as the initial point of interaction between potential
-              customers and your brand. As a result, our web design packages
-              focus on designing engaging designs that accurately reflect your
-              company's personality and values, prioritizing user engagement via
-              easy navigation and fast-loading pages to give every visitor the
-              best experience.
+              Here at Bernum we understand that your website is usually the
+              first point of contact that your potential clients have with your
+              business. Which is why every package we offer in terms of web
+              design is designed to be as visually captivating and unique as
+              your company itself. We value user interaction through the
+              website’s navigation, website speed, and website compatibility
+              with different devices. So every visitor should be turned into a
+              client, and that is what we are aiming for. Choose Bernum to
+              create a website that will not only lure visitors but also keep
+              them engaged towards the success of the business.Here at Bernum we
+              understand that your website is usually the first point of contact
+              that your potential clients have with your business. Which is why
+              every package we offer in terms of web design is designed to be as
+              visually captivating and unique as your company itself. We value
+              user interaction through the website’s navigation, website speed,
+              and website compatibility with different devices. So every visitor
+              should be turned into a client, and that is what we are aiming
+              for. Choose Bernum to create a website that will not only lure
+              visitors but also keep them engaged towards the success of the
+              business.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Bernum's web design packages represent an investment with
-              significant returns. Thanks to our proven track record and
-              dedication to client satisfaction, we have become one of the
-              premiere web design service providers. Allow us to rediscover and
-              strengthen your online presence so it has an impactful message for
-              its target audience.
+              Bernum’s web design packages are highly affordable and something
+              which pays for itself in the long run. Clients’ satisfaction along
+              with positive results allowed them to become one of the most
+              famous web design services providers. Our team is focused on
+              improving your position on the World Wide Web, driving your
+              website’s message home to your audience. Whether you’re searching
+              for ways to redesign and revitalize your existing site or get a
+              building site from scratch, Bernum is ready to help boost your
+              brand and advance your business objectives with professional,
+              accessible web layouts.
             </p>
             <p className="text-3xl text-base leading-snug text-gray-600 md:mt-2 md:leading-relaxed poppinFont">
-              Reach out now and take the first steps towards an impactful and
-              productive web presence! Our web design packages can make your
-              visions come to life while helping expand the digital space for
-              your business.
+              Start the climb to high profile, fast moving dynamic Bernum web
+              design packs. Leveraging our bespoke services, we aim at turning
+              your dreams into reality while growing your company’s presence
+              online. No matter if you wish to upgrade your brand image, bring
+              more traffic or increase conversion rates, our highly customized
+              websites are designed to help you achieve your aim. Take the first
+              step right now and contact Bernum on how the firm can assist your
+              business design a brilliant website that will in turn motivate
+              users and set the stage for organizational growth in today’s
+              dynamic marketplace.
             </p>
           </div>
         </div>
