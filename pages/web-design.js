@@ -52,8 +52,8 @@ const WebDesign = () => {
               <div className="content">
                 <span className="sub-title">Digital Marketing</span>
                 <h2>
-                  Responsive Web Design Agency Vancouver to outshine your
-                  competitors.
+                  Vancouver's Premier Web Design Agency | Boost Your Online
+                  Success
                 </h2>
                 <p className="parachange">
                   As there are more than 4.88 billion mobile users across the
@@ -156,7 +156,7 @@ const WebDesign = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">Digital Marketing</span>
-            <h2>We Provide Web Design Services.</h2>
+            <h2>Transform Your Business With Our Expert Web Design Services</h2>
             <p>
               Most of the websites you see look similar because of having
               incorporated similar elements. We are a professional web design

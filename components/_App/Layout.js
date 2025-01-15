@@ -50,7 +50,7 @@ website design agency canada, website design agency ottawa, website development 
         />
 
         <title>
-          Leading Website Development and Design Company in Canada - Bernum
+          Website Development and Digital Marketing Company in Canada - Bernum
         </title>
 
         <script

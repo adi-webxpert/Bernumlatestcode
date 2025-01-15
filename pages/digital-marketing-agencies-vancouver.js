@@ -55,7 +55,7 @@ function AgenciesVancouver() {
       </Head>
       <NavbarStyleTwo />
 
-      <LandingPageBanner pageTitle="Digital Marketing Agencies Vancouver" />
+      <LandingPageBanner pageTitle="Vancouver's Premier Digital Marketing Agency | Drive Real Results" />
       {/* tabs */}
       <div className=" container tabs-three">
         <div className="row justify-center mx-6 mt-12">
@@ -128,8 +128,8 @@ function AgenciesVancouver() {
         <div className="lg:text-center mt-36 why-choose-sec">
           <Container maxWidth="md">
             <h2 className="text-3xl font-normal leading-8 tracking-tight text-gray-900 sm:text-4xl md:text-5xl">
-              Why Choose{" "}
-              <span style={{ color: "rgb(245, 153, 72)" }}> Us </span>
+              How We Drive Results For{" "}
+              <span style={{ color: "rgb(245, 153, 72)" }}> Our Clients </span>
             </h2>
           </Container>
         </div>
@@ -434,7 +434,12 @@ function AgenciesVancouver() {
       {/* about */}
       <div className=" container tabs-three mt-20 ">
         <h2 className="text-4xl text-center font-normal leading-8 tracking-tight text-gray-900 sm:text-4xl md:text-5xl">
-          <span style={{ color: "rgb(245, 153, 72)" }}> About </span> Bernum
+          {" "}
+          Why <span style={{ color: "rgb(245, 153, 72)" }}>
+            {" "}
+            Vancouver's{" "}
+          </span>{" "}
+          Top Brands Trust Bernum
         </h2>
         <div className="row justify-center mt-12 mx-6">
           <div className="col-md-12 col-sm-12 col-xs-12">
@@ -471,7 +476,8 @@ function AgenciesVancouver() {
       <div className=" container contact-des ">
         <div className="mb-6 max-w-2xl text-center md:mx-auto md:mb-12 xl:max-w-none mt-20">
           <h2 className="text-3xl font-normal leading-8 tracking-tight text-gray-900 sm:text-4xl md:text-5xl">
-            Contact<span style={{ color: "rgb(245, 153, 72)" }}> Us </span>{" "}
+            Transform Your Digital{" "}
+            <span style={{ color: "rgb(245, 153, 72)" }}> Presence  </span>{" "}
           </h2>
         </div>
         <div className="row justify-center mx-6 mt-12">

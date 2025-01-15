@@ -35,7 +35,7 @@ const INITIAL_STATE = {
 const siteKey = GOOGLE.RECAPTCH_SITE_KEY;
 const LandingContactForm = ({ pcontent, readmoreContent }) => {
   const [read, setRead] = useState(false);
-const router=useRouter()
+  const router = useRouter();
   const handleRead = () => {
     setRead(!read);
   };
@@ -85,7 +85,7 @@ const router=useRouter()
         // alertContent();
         reset();
         setLoader(false);
-        router.push("/thankyou")
+        router.push("/thankyou");
       }
       reset();
     } catch (e) {
@@ -107,17 +107,18 @@ const router=useRouter()
   };
 
   return (
-    <div className="contact-area pb-100 mt-20" >
+    <div className="contact-area pb-100 mt-20">
       <div id="contactWithUs"></div>
       <div className="container ">
         <Container maxWidth="md" className="text-center">
-          <h2 class="text-3xl font-normal leading-8 tracking-tight text-gray-900 sm:text-4xl md:text-5xl" >
-            Let's Discuss Your{" "}
-            <span style={{ color: "rgb(245, 153, 72)" }}>Project</span>
+          <h2 class="text-3xl font-normal leading-8 tracking-tight text-gray-900 sm:text-4xl md:text-5xl">
+            Start Your 
+            <span style={{ color: "rgb(245, 153, 72)" }}> Growth </span>Journey
+            Today
           </h2>
-        </Container >
+        </Container>
 
-        <div className="row mb-3.5  mt-4" >
+        <div className="row mb-3.5  mt-4">
           <div className="col-lg-6 col-md-12">
             <div className="contact-image" data-tilt>
               <img src="/images/contactUs.jpg" alt="image" />

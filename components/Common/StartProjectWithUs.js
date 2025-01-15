@@ -14,10 +14,9 @@ const StartProjectWithUs = () => {
 
           <div className="col-lg-6 col-md-12">
             <div className="project-start-content">
-              <span className="sub-title">Get Started</span>
+              <span className="sub-title">Start Your Free Consultation Now</span>
               <h2>
-                Your Website Is the Gateway to Reaching Your Target Audience
-                Online
+              Your Website Is the Gateway to Reaching Your Target Audience Online
               </h2>
               <p>
                 At our web design agency, we specialise in crafting

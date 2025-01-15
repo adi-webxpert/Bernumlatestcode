@@ -55,7 +55,7 @@ function developmentCanada() {
       </Head>
       <NavbarStyleTwo />
 
-      <LandingPageBanner pageTitle="Web Development Company Canada" />
+      <LandingPageBanner pageTitle="Transform Your Business With Expert Web Development | Canada's Leading Agency" />
 
       {/* tabs */}
       <div className=" container tabs-three">
@@ -126,8 +126,8 @@ function developmentCanada() {
         <div className="lg:text-center mt-36 why-choose-sec">
           <Container maxWidth="md">
             <h2 className="text-3xl font-normal leading-8 tracking-tight text-gray-900 sm:text-4xl md:text-5xl">
-              Why Choose <span style={{ color: "rgb(245, 153, 72)" }}> Us</span>
-              ?
+              Why 500+ Businesses Trust{" "}
+              <span style={{ color: "rgb(245, 153, 72)" }}> Bernum</span>
             </h2>
           </Container>
         </div>
@@ -457,7 +457,8 @@ function developmentCanada() {
       <div className=" container contact-des ">
         <div className="mb-6 max-w-2xl text-center md:mx-auto md:mb-12 xl:max-w-none mt-20">
           <h2 className="text-3xl font-normal leading-8 tracking-tight text-gray-900 sm:text-4xl md:text-5xl">
-            Contact<span style={{ color: "rgb(245, 153, 72)" }}> Us </span>{" "}
+            Start Your Project in
+            <span style={{ color: "rgb(245, 153, 72)" }}> 24 Hour </span>{" "}
           </h2>
         </div>
         <div className="row justify-center mx-6 mt-12">

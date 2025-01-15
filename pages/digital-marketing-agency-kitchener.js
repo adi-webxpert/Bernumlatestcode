@@ -55,7 +55,7 @@ function Kitchener() {
       </Head>
       <NavbarStyleTwo />
 
-      <LandingPageBanner pageTitle="Digital Marketing Agency Kitchener" />
+      <LandingPageBanner pageTitle="Grow Your Business With Kitchener's Premier Digital Marketing Agency" />
 
       {/* tabs */}
       <div className=" container tabs-three">
@@ -116,8 +116,8 @@ function Kitchener() {
         <div className="lg:text-center mt-36 why-choose-sec">
           <Container maxWidth="md">
             <h2 className="text-3xl font-normal leading-8 tracking-tight text-gray-900 sm:text-4xl md:text-5xl">
-              Why Choose <span style={{ color: "rgb(245, 153, 72)" }}> Us</span>
-              ?
+              How We Drive Results For{" "}
+              <span style={{ color: "rgb(245, 153, 72)" }}>Your Business</span>
             </h2>
           </Container>
         </div>
@@ -418,7 +418,8 @@ function Kitchener() {
       {/* about */}
       <div className=" container tabs-three mt-20 ">
         <h2 className="text-4xl text-center font-normal leading-8 tracking-tight text-gray-900 sm:text-4xl md:text-5xl">
-          <span style={{ color: "rgb(245, 153, 72)" }}> About </span> Bernum
+          How We've Helped 100+ Businesses{" "}
+          <span style={{ color: "rgb(245, 153, 72)" }}>Grow Online </span>{" "}
         </h2>
         <div className="row justify-center mt-12 mx-6">
           <div className="col-md-12 col-sm-12 col-xs-12">
@@ -450,7 +451,8 @@ function Kitchener() {
       <div className=" container contact-des ">
         <div className="mb-6 max-w-2xl text-center md:mx-auto md:mb-12 xl:max-w-none mt-20">
           <h2 className="text-3xl font-normal leading-8 tracking-tight text-gray-900 sm:text-4xl md:text-5xl">
-            Contact<span style={{ color: "rgb(245, 153, 72)" }}> Us </span>{" "}
+            Get Your Free Digital Marketing{" "}
+            <span style={{ color: "rgb(245, 153, 72)" }}> Consultation </span>{" "}
           </h2>
         </div>
         <div className="row justify-center mx-6 mt-12">

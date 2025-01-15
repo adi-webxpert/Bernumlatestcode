@@ -7,9 +7,8 @@ export default function LandingPageTestimonial() {
       <Container maxWidth="lg">
         <div className="team-head  grid justify-center item-center">
           <h2 className="text-2xl font-normal leading-8 tracking-tight text-gray-900 sm:text-4xl md:text-5xl">
-            We're
-            <span style={{ color: "rgb(245, 153, 72)" }}> Awarded </span> as Top
-            Digital Marketing Agency
+           
+            <span style={{ color: "rgb(245, 153, 72)" }}> Award-Winning </span>  Results That Drive Business Growth
           </h2>
         </div>
         <div className="container  testimonial flex justify-between gap-4 pt-20 item-center px-7">

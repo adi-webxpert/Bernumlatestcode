@@ -72,7 +72,7 @@ const MainBanner = () => {
       <meta property="og:site_name" content="Bernum" />
       <meta
         property="og:title"
-        content="Leading Website Development and Design Company in Canada - Bernum"
+        content="Website Development and Digital Marketing Company in Canada - Bernum"
       />
       <meta
         property="og:description"
